@@ -8,6 +8,17 @@
     </a>
   </div>
 </div>
+<br></br>
+I am currently working as an IoT engineer/digital consultant at a japanese firm in Singapore.  Prior to my current role, I founded a startup with 2 other cofounders developing automated and sensory systems to assist swimming pools in maintaining their pool hygiene.  I worked day and night for almost 3 years before I decided that I wasn't going anywhere with this, so I have decided to hop on to do sales first before my current role.  I will tell you my career backstory over coffee or my detailed history over a formal job interview.
+
+## Background
+I am mainly doing solutioning work these days, so my scope of work covers pre-sales and implementation work for digital related IoT projects.  My expertise lies in IoT integration for end-to-end applications, with a history of digitalizing assets such as PLCs and industrial pumps for data visualisation or remote control.  I am comfortable in developing python or javascript based scripts or applications, especially for integration with cloud services, third party apis or analytics.  
+
+Feel free to explore my github.
+
+## Tech stack
+Python, javascript, react, HTML, CSS, AWS, docker
+
 
 <!--
 **Seanyap90/Seanyap90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
