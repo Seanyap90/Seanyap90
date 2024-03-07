@@ -16,7 +16,7 @@ I am mainly doing solutioning work these days, so my scope of work covers pre-sa
 
 Nonetheless, my whole career is based on learning technologies or knowing complex products on my own from scratch, which has built my adaptability to a point where I am comfortable in implementing technologies for both internal and customer applications.  I come from the view of deeply understand requirements or problems before recommending and building at least a minimal workable version of a solution.  Upon a successful PoC, I can assist in managing a full deployment of a solution.  If you are looking to hire for your presales/solution engineering, internal innovation or system analyst teams, I do believe I will be a good fit.
 
-Moving on from pitching, I am here to explore the multitude of amazing open source work put out by the community, especially in AI.  I am glad that open source is also relevant for IoT.  Let's collaborate anything
+Moving on from pitching, I am here to explore the multitude of amazing open source work put out by the community, especially in AI.  I am glad that open source is also relevant for IoT. 
 
 Feel free to explore my github.
 
