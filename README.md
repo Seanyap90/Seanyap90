@@ -12,7 +12,11 @@
 I am currently working as an IoT engineer/digital consultant at a japanese firm in Singapore.  Prior to my current role, I founded a startup with 2 other cofounders developing automated and sensory systems to assist swimming pools in maintaining their pool hygiene.  I worked day and night for almost 3 years before I decided that I wasn't going anywhere with this, so I have decided to hop on to do sales first before my current role.  I will tell you my career backstory over coffee or my detailed history over a formal job interview.
 
 ## Background
-I am mainly doing solutioning work these days, so my scope of work covers pre-sales and implementation work for digital related IoT projects.  My expertise lies in IoT integration for end-to-end applications, with a history of digitalizing assets such as PLCs and industrial pumps for data visualisation or remote control.  I am comfortable in developing python or javascript based scripts or applications, especially for integration with cloud services, third party apis or analytics.  
+I am mainly doing solutioning work these days, so my scope of work covers pre-sales and implementation work for digital related IoT projects.  My expertise lies in IoT integration for end-to-end applications, with a history of digitalizing assets such as PLCs and industrial pumps for data visualisation or remote control.  I am comfortable in developing python or javascript based scripts or applications, especially for integration with cloud services, third party apis or analytics. 
+
+Nonetheless, my whole career is based on learning technologies or knowing complex products on my own from scratch, which has built my adaptability to a point where I am comfortable in implementing technologies for both internal and customer applications.  I come from the view of deeply understand requirements or problems before recommending and building at least a minimal workable version of a solution.  Upon a successful PoC, I can assist in managing a full deployment of a solution.  If you are looking to hire for your presales/solution engineering, internal innovation or system analyst teams, I do believe I will be a good fit.
+
+Moving on from pitching, I am here to explore the multitude of amazing open source work put out by the community, especially in AI.  I am glad that open source is also relevant for IoT.  Let's collaborate anything
 
 Feel free to explore my github.
 
