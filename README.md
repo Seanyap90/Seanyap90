@@ -17,7 +17,7 @@ I am mainly doing solutioning work these days, so my scope of work covers pre-sa
 Feel free to explore my github.
 
 ## Tech stack
-Python, javascript, react, HTML, CSS, AWS, docker
+Python, Javascript, React, HTML, CSS, AWS, Docker
 
 
 <!--
