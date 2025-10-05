@@ -24,8 +24,12 @@ Moving on from pitching, I am here to explore the multitude of amazing open sour
 
 Feel free to explore my github.
 
-## Tech stack
-Python, Javascript, React, HTML, CSS, AWS, Docker
+## Tech stack and skills
+Software: Python, Javascript
+Infrastructure: Cloud platforms, Hypervisors and VMs, Containerisation such as Docker and k8s
+Administration: Linux (Ubuntu/Redhat/AmazonLinux), k8s administration, cloud administration
+Presales: Demos and POCs
+Postsales: SRE, Devops, Architecture for new features and expanded deployments during renewals
 
 
 <!--
