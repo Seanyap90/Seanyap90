@@ -9,7 +9,9 @@
   </div>
 </div>
 <br></br>
-I am currently working as an application engineer, handling cloud and onprem deployments at a cybersecurity firm.  Prior to my current role, 
+I am currently working as an application engineer, handling cloud and onprem deployments at a cybersecurity firm.  
+
+Prior to my current role, 
 - I worked as an IOT engineer/digital consultant at a japanese firm, spearheading digital transformation with IoT, RPA and low code tools for both within the company itself and for their customers.
 - I founded a startup with 2 other cofounders developing automated and sensory systems to assist swimming pools in maintaining their pool hygiene.  I worked day and night for almost 3 years before I decided that I wasn't going anywhere with this, so I have decided to hop on to do sales first before my current role.  I will tell you my career backstory over coffee or my detailed history over a formal job interview.
 
